@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=rank\ suit
+comment0.target=Card(Card.Rank,\ Card.Suit)
+comment0.text=Construct\ a\ card\ from\ its\ rank\ and\ suit
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=Return\ a\ printable\ representation\ of\ this\ card
+comment2.params=
+comment2.target=Card.Rank\ getRank()
+comment3.params=
+comment3.target=Card.Suit\ getSuit()
+numComments=4
